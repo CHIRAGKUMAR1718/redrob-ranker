@@ -1,0 +1,6 @@
+candidates.jsonl
+candidates.jsonl.gz
+venv/
+__pycache__/
+*.pyc
+submission/
